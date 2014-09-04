@@ -1,15 +1,14 @@
-# Content for Tharnid.com #
+# Content for Tharnode.com #
 ---
 
-1. Blog (Wordpress)
-2. Apache
-3. Mysql
-3. PHP
+- MongoDB
+- Node.js
+- Nginx
 
 Coming Soon
 
-- Laravel
-- Java ???
-- Python
+- Clojure/Erlang/Elixir/Haskell/Scala???
+- Redis
+
 
 ---
