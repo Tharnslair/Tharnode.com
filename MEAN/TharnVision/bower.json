@@ -1,0 +1,11 @@
+{
+  "name": "TharnVision",
+  "version": "0.0.0",
+  "description": "play project",
+  "authors": [
+    "Tharnslair"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.tharnode.com/MEAN/TharnVision",
+  "private": true
+}
