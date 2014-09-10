@@ -1,5 +1,4 @@
 # TharnVision
----
 
 - Based on PS course by Joe Eames
 
