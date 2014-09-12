@@ -16,6 +16,8 @@ NPM init - creates the package.json file
 bower install jquery --save
 
 use git shell on bower commands!!!
+
+--allow-root (allows you to run bower commands while being logged in as root)
 ---
 
 ---
