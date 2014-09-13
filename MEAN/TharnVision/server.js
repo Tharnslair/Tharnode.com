@@ -1,7 +1,8 @@
 // Require statements up here
 var express = require('express');
 	stylus = require('stylus');
-	logger = require('morgan');     
+	logger = require('morgan');  
+	BodyParser = require('body-parser');   
 
 // setting environment
 var env = process.env.NODE_ENV = process.env.NODE_ENV || 'development';
@@ -17,8 +18,13 @@ function compile(str, path) {
 // app configuration
 app.set('views', __dirname + '/server/views');
 app.set('view engine', 'jade');
+
 // express logging
-app.use(('dev'));
+app.use(logger('dev'));
+
+// Body Parser
+app.use(BodyParser());
+
 // adding stylus middleware
 app.use(stylus.middleware(
 	{
