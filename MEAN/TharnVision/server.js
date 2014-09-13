@@ -1,8 +1,10 @@
 // Require statements up here
-var express = require('express');
-	stylus = require('stylus');
-	logger = require('morgan');  
-	BodyParser = require('body-parser');   
+var express = require('express'),
+	stylus = require('stylus'),
+	logger = require('morgan'),  
+	BodyParser = require('body-parser'),
+	mongoose = require('mongoose');
+
 
 // setting environment
 var env = process.env.NODE_ENV = process.env.NODE_ENV || 'development';
@@ -35,6 +37,14 @@ app.use(stylus.middleware(
 
 // express static
 app.use(express.static(__dirname + '/public'));
+
+// connecting to Mongo
+mongoose.connect('mongodb://localhost/tharnvision');
+var db = mongoose.connection;
+db.on('error', console.error.bind(console, 'connection error.......'));
+db.once('open', function callback() {
+	console.log('tharnvision db opened!!!')
+});
 
 // Server side route for partials
 app.get('/partials/:partialPath', function(req, res) {
