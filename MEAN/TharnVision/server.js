@@ -36,6 +36,11 @@ app.use(stylus.middleware(
 // express static
 app.use(express.static(__dirname + '/public'));
 
+// Server side route for partials
+app.get('/partials/:partialPath', function(req, res) {
+	res.render('partials/' + req.params.partialPath);
+});
+
 // routes 
 app.get('*', function(req, res) { // match all routes
 	res.render('index');
