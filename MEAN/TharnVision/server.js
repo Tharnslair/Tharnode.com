@@ -46,14 +46,24 @@ db.once('open', function callback() {
 	console.log('tharnvision db opened!!!')
 });
 
+// message schema
+var messageSchema = mongoose.Schema({message: String});
+var Message = mongoose.model('Message', messageSchema);
+var mongoMessage;
+Message.findOne().exec(function(err, messageDoc) {
+  mongoMessage = messageDoc.message;
+});
+
 // Server side route for partials
 app.get('/partials/:partialPath', function(req, res) {
 	res.render('partials/' + req.params.partialPath);
 });
 
 // routes 
-app.get('*', function(req, res) { // match all routes
-	res.render('index');
+app.get('*', function(req, res) {
+  res.render('index', {
+    mongoMessage: mongoMessage
+  });
 });
 
 
