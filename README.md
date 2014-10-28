@@ -5,10 +5,9 @@
 - Node.js
 - Nginx
 
-Coming Soon
+## Updates
 
-- Clojure/Erlang/Elixir/Haskell/Scala???
-- Redis
+   TharnSocial - issues with reference I am going through...will come back to this
 
 
 ---
