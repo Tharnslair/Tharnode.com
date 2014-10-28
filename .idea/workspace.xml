@@ -2,149 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c633a31-aa15-4bc3-8d53-e477bad6a32b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TharnSocial/db.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MEAN/ch2/app/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TharnSocial/models/post.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MEAN/ch2/app/requestHandler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MEAN/ch2/app/router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TharnSocial/server.js" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\Notes.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\app\app.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\app\main\tvMainCtrl.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\css\site.styl" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular-resource\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular-resource\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular-resource\angular-resource.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular-resource\angular-resource.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular-resource\angular-resource.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular-resource\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular-route\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular-route\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular-route\angular-route.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular-route\angular-route.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular-route\angular-route.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular-route\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular\angular-csp.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular\angular.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular\angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular\angular.min.js.gzip" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular\angular.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\angular\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\dist\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\dist\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\dist\jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\ajax\jsonp.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\ajax\load.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\ajax\parseJSON.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\ajax\parseXML.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\ajax\script.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\ajax\var\nonce.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\ajax\var\rquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\ajax\xhr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\attributes.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\attributes\attr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\attributes\classes.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\attributes\prop.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\attributes\support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\attributes\val.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\core.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\core\access.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\core\init.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\core\parseHTML.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\core\ready.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\core\var\rsingleTag.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\css.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\css\addGetHookIf.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\css\curCSS.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\css\defaultDisplay.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\css\hiddenVisibleSelectors.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\css\support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\css\swap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\css\var\cssExpand.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\css\var\getStyles.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\css\var\isHidden.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\css\var\rmargin.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\css\var\rnumnonpx.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\data.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\data\Data.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\data\accepts.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\data\var\data_priv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\data\var\data_user.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\deprecated.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\dimensions.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\effects.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\effects\Tween.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\effects\animatedSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\event.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\event\alias.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\event\support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\exports\amd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\exports\global.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\intro.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\manipulation.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\manipulation\_evalUrl.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\manipulation\support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\manipulation\var\rcheckableType.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\offset.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\outro.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\queue.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\queue\delay.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\selector-native.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\selector-sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\selector.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\serialize.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\sizzle\dist\sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\sizzle\dist\sizzle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\sizzle\dist\sizzle.min.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\traversing.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\traversing\findFilter.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\traversing\var\rneedsContext.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\var\arr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\var\class2type.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\var\concat.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\var\hasOwn.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\var\indexOf.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\var\pnum.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\var\push.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\var\rnotwhite.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\var\slice.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\var\strundefined.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\var\support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\var\toString.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\jquery\src\wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\toastr\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\toastr\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\toastr\toastr.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\toastr\toastr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\toastr\toastr.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\toastr\toastr.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\toastr\toastr.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\toastr\toastr.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\public\vendor\toastr\toastr.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\server.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\server\includes\layout.jade" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\server\includes\scripts.jade" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\server\views\index.jade" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\server\views\partials\featured-courses.jade" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\server\views\partials\main.jade" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jsmith33@ittesi.com\Documents\GitHub\Tharnode.com\MEAN\TharnVision\server\views\partials\new-courses.jade" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TharnSocial/server.js" afterPath="$PROJECT_DIR$/TharnSocial/server.js" />
     </list>
     <ignored path="Tharnode.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -166,7 +24,18 @@
     <favorites_list name="Tharnode.com" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="server.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TharnSocial/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6666667" vertical-offset="0" max-vertical-offset="816">
+              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -197,9 +66,9 @@
         <option value="$PROJECT_DIR$/MEAN/AUI/test/unit/directives.spec.js" />
         <option value="$PROJECT_DIR$/MEAN/AUI/test/unit/controllers.spec.js" />
         <option value="$PROJECT_DIR$/MEAN/AUI/scripts/test.sh" />
-        <option value="$PROJECT_DIR$/TharnSocial/server.js" />
         <option value="$PROJECT_DIR$/TharnSocial/db.js" />
         <option value="$PROJECT_DIR$/TharnSocial/models/post.js" />
+        <option value="$PROJECT_DIR$/TharnSocial/server.js" />
       </list>
     </option>
   </component>
@@ -363,13 +232,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="978" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -478,18 +347,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TharnSocial/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5" vertical-offset="0" max-vertical-offset="816">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TharnSocial/db.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16666667" vertical-offset="0" max-vertical-offset="816">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TharnSocial/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6666667" vertical-offset="0" max-vertical-offset="816">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
           <folding />
         </state>
       </provider>
